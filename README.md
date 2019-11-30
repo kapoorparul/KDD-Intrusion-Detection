@@ -10,3 +10,9 @@ of distinguishing between ”bad” connections, called intrusions or attacks, a
 4. Probing: surveillance and other probing
 
 The dataset is at http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+
+Results obtained:
+Precison         0.999031
+Recall           0.884460
+F-score          0.921850
+Accuracy         0.999998
